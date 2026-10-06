@@ -1,0 +1,42 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  
+}
+.id {
+  position: relative;
+  background-color: rgba(252, 252, 252, 0.5);
+  padding: 20px;
+  /* height: 500px; */ /*
+  width: 400px;
+  border-radius: 5px;
+  border: 1px solid #000000;
+  margin:30px;
+}
+
+.ins p {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;      
+}
+
+
+img{
+  border-radius: 50%;
+  border: 5px solid #000000;
+} 
+ */
